@@ -5,32 +5,40 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=1AADD8&center=true&vCenter=true&width=1000&height=110&lines=Data+Science+Enthusiastic;ML+Enthusiastic)](https://git.io/typing-svg)
 
 
-### A passionate Junior Data Scientist with a strong desire to explore and analyze data to gain valuable insights. My goal is to turn data into knowledge and make data-driven decisions.
+###Junior Data Scientist & Web Developer
 
-I have experience in data analysis, statistical modeling, and machine learning, and I'm excited to continue learning and growing in this field. My focus is on problem-solving and data-driven decision-making, and I'm always looking for new ways to tackle challenges.
+Passionate about using data to understand problems, extract insights, and build solutions that make an impact. I combine my background in data analysis, statistical modeling, and machine learning with practical experience in web development to create dynamic, data-driven applications.
 
-In my free time, I enjoy working on personal data-related projects, learning new techniques and tools, and sharing my knowledge with the community. I'm open to collaborating on exciting projects and learning from more experienced mentors in the data science field.
+I enjoy solving complex problems, optimizing processes, and continuously learning new tools in both data science and software development.
 
-My skills include:
-- Exploratory data analysis
-- Machine learning
-- Python programming
-- Data visualization
-- Statistics
-- SQL and NoSQL databases
+In my free time, I work on personal projects related to analytics, automation, and web technologies. I’m always open to collaborating on interesting ideas and learning from experienced professionals in the tech and data ecosystem.
 
-I'm thrilled for the opportunity to apply my skills and knowledge to real projects and continue advancing in my career as a Data Scientist. Let's connect and work together on innovative solutions!
+**Skills & interests:**
+- Exploratory Data Analysis  
+- Machine Learning  
+- Python Development  
+- Web Development (FastAPI, JavaScript)  
+- Data Visualization  
+- Statistics  
+- SQL & NoSQL Databases  
 
-- 🌱 I’m currently learning Big Data Tools as Spark
-- 📫 How to reach me: www.linkedin.com/in/douguzman
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You don't enjoy it, you won't be good on that
+I'm excited about opportunities to contribute to real-world projects and grow as a Data Scientist and Developer.  
+Let’s connect!
+
+- 🌱 Currently learning: Big Data tools (Spark)  
+- 📫 Reach me: www.linkedin.com/in/douguzman  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: *If you don’t enjoy it, you won’t be good at it.*
 
 
 ---
 ### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)&nbsp;
+![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-333333?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=google-cloud&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
