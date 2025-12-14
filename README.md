@@ -2,10 +2,10 @@
 
 <h1 align="center">I am Douglas Guzmán<width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=1AADD8&center=true&vCenter=true&width=1000&height=110&lines=Data+Science+Enthusiastic;ML+Enthusiastic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=1AADD8&center=true&vCenter=true&width=1000&height=110&lines=Data+Engineer+Enthusiastic;ML+Enthusiastic)](https://git.io/typing-svg)
 
 
-### Junior Data Scientist & Web Developer
+### Data Engineer & Web Developer
 
 Passionate about using data to understand problems, extract insights, and build solutions that make an impact. I combine my background in data analysis, statistical modeling, and machine learning with practical experience in web development to create dynamic, data-driven applications.
 
