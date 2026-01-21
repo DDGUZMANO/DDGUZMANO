@@ -14,6 +14,10 @@ I enjoy solving complex problems, optimizing processes, and continuously learnin
 In my free time, I work on personal projects related to analytics, automation, and web technologies. I’m always open to collaborating on interesting ideas and learning from experienced professionals in the tech and data ecosystem.
 
 **Skills & interests:**
+- ETL
+- PySpark
+- Apache NIFI
+- Docker
 - Exploratory Data Analysis  
 - Machine Learning  
 - Python Development  
