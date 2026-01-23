@@ -39,6 +39,7 @@ Let’s connect!
 ### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+https://img.shields.io/badge/-Apache_NiFi-0066CC?logo=apache-nifi&logoColor=white&style=flat   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)&nbsp;
 ![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-333333?style=flat&logo=google-cloud&logoColor=white)
