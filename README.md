@@ -7,11 +7,11 @@
 
 ### Data Engineer & Web Developer
 
-Passionate about using data to understand problems, extract insights, and build solutions that make an impact. I combine my background in data analysis, statistical modeling, and machine learning with practical experience in web development to create dynamic, data-driven applications.
+Passionate about using data to understand problems, extract insights, and build solutions that make an impact. I combine my background in data engineering, analysis, statistical modeling, and machine learning with practical experience in web development to create dynamic, data-driven applications.
 
 I enjoy solving complex problems, optimizing processes, and continuously learning new tools in both data science and software development.
 
-In my free time, I work on personal projects related to analytics, automation, and web technologies. I’m always open to collaborating on interesting ideas and learning from experienced professionals in the tech and data ecosystem.
+In my free time, I work on personal projects related to ETL, analytics, automation, and web technologies. I’m always open to collaborating on interesting ideas and learning from experienced professionals in the tech and data ecosystem.
 
 **Skills & interests:**
 - ETL
